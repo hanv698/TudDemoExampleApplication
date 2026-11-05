@@ -3,4 +3,4 @@ sudo npm install -g pm2
 pm2 stop example_app
 cd TudDemoExampleApplication
 npm install
-pm2 start ./bin www --name example_app
+pm2 start ./bin/www --name example_app
